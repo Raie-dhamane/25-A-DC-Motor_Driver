@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=R1 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R2 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R3 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R4 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R17 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R18 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R19 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=R20 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Designator: OldDesignator=IC1 NewDesignator=AND
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC4 NewDesignator=OR
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P4-2
+Add Pin To Net: Unknown Pin: Pin P5-1
+Add Pin To Net: Unknown Pin: Pin P5-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Add Pin To Net: Unknown Pin: Pin Q4-1
+Add Pin To Net: Unknown Pin: Pin Q4-2
+Add Pin To Net: Unknown Pin: Pin Q4-3
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetAND_2
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=NetAND_3
+Change Net Name : Old Net Name=NetIC1_4 New Net Name=NetAND_4
+Change Net Name : Old Net Name=NetIC1_6 New Net Name=NetAND_6
+Change Net Name : Old Net Name=NetIC2_12 New Net Name=NetIC1_12
+Change Net Name : Old Net Name=NetIC3_12 New Net Name=NetIC2_12
+Add Class Member: Failed to add class member : Component C3 EEUED2V101
+Add Class Member: Failed to add class member : Component D1 1N4001-E3/54
+Add Class Member: Failed to add class member : Component D2 1N4001-E3/54
+Add Class Member: Failed to add class member : Component D3 1N4001-E3/54
+Add Class Member: Failed to add class member : Component D4 1N4001-E3/54
+Add Class Member: Failed to add class member : Component P1 1714955
+Add Class Member: Failed to add class member : Component P2 1714955
+Add Class Member: Failed to add class member : Component P3 1714955
+Add Class Member: Failed to add class member : Component P4 1714955
+Add Class Member: Failed to add class member : Component P5 1714955
+Add Class Member: Failed to add class member : Component Q1 IRFZ44NPBF
+Add Class Member: Failed to add class member : Component Q2 IRFZ44NPBF
+Add Class Member: Failed to add class member : Component Q3 IRFZ44NPBF
+Add Class Member: Failed to add class member : Component Q4 IRFZ44NPBF
+Added Room: Name=motordriver_hgh voltage
+Added Room: Name=motordriver_low voltage
